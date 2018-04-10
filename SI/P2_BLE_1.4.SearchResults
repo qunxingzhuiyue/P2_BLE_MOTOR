@@ -1,0 +1,2 @@
+---- BLE for Matches (1 in 1 files) ----
+simpleBLEPeripheral.c (projects\ble\simplebleperipheral\source):static uint8 attDeviceName[GAP_DEVICE_NAME_LEN] = "BLE for XXX";
